@@ -3,7 +3,14 @@ Introduction to shiny
 
 ## Overview
 
-Shiny is a mature approach to building interactive apps that is more formal than other popular frameworks, such streamlit. This presents both a challenge and greater flexibility and power. To use Shiny you must first learn about and get comfortable with the basic principles of reactive programming. In this workshop, we cover the essential concepts of reactive programming and of the Shiny framework. We'll use Hadley Wickham's [Mastering Shiny](https://mastering-shiny.org/). The goal is that after the workshop, you can continue self-study of Shiny by reading and working examples from the remainder of the book.
+Shiny is a mature approach to building interactive apps that is more formal than other popular frameworks, such streamlit. This presents both a challenge and greater flexibility and power. To use Shiny you must first learn about and get comfortable with the basic principles of reactive programming. Thinking in terms of reactive programming is a significant shift for most people: declartive versus imperative, reactive versus functional. In this workshop, we cover the essential concepts of reactive programming and of the Shiny framework. We'll use Hadley Wickham's [Mastering Shiny](https://mastering-shiny.org/). The goal is that after the workshop you can continue self-study of Shiny by reading and working examples from the remainder of the book.
+
+## Workshop Outline
+
+1. Introduction 
+2. Basic User Interface
+3. Basic Reactivity 
+4. Next steps
 
 
 
